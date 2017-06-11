@@ -1,0 +1,24 @@
+{
+  "name": "dailywear",
+  "version": "1.0.0",
+  "description": "Get daily wear forecast",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "forex",
+    "alexa"
+  ],
+  "author": "Nikhil Walvekar",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6",
+    "q": "^1.4.1",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}

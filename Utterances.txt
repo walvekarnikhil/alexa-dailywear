@@ -1,0 +1,6 @@
+ReadNumber {number}
+ReadNumber zip is {number}
+GetSuggestion give me suggestion
+GetSuggestion suggest
+Reset reset
+Reset reset preferences

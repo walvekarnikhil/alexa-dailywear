@@ -1,0 +1,24 @@
+{
+  "intents": [
+    {
+      "intent": "ReadNumber",
+      "slots": [
+        {
+          "name": "number",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "GetSuggestion",
+      "slots": []
+    },
+    {
+      "intent": "Reset",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.StartOverIntent"
+    }
+  ]
+}
